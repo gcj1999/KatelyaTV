@@ -10,6 +10,3 @@
     "lzzy": {
       "api": "https://api.liangzizy.com/inc/apijson_vod.php",
       "name": "量子资源",
-      
-      "is_adult": false
-    },
